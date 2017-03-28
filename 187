@@ -1,0 +1,7 @@
+v1.89
+
+* Remove CNS filter for AOSiP
+* Code Housekeeping
+* Add Custom Buildtarget names for
+	AOKP and AOSiP
+* Tree (git) Cleanup
